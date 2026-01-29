@@ -4,7 +4,11 @@ MVP личного кабинета клиента турагентства Mega
 
 ## 🌐 Доступ к приложению
 
-**Production URL**: https://3000-igt8xp1c75dpk9g2rnk7h-3844e1b6.sandbox.novita.ai
+**Production URL (Cloudflare Pages)**: https://megapolus-tours-lk.pages.dev  
+**Latest Deployment**: https://9cd95f2e.megapolus-tours-lk.pages.dev  
+**Development Sandbox**: https://3000-igt8xp1c75dpk9g2rnk7h-3844e1b6.sandbox.novita.ai
+
+✅ **Приложение успешно развернуто на Cloudflare Pages!**
 
 ## ✨ Реализованный функционал
 
